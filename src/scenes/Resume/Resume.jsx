@@ -11,7 +11,10 @@ import 'react-pdf/dist/esm/Page/AnnotationLayer.css';
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.js`;
 
 const resumeLink =
-  'https://github.com/rsap4you/Amarjeetcv/blob/main/Amarjeetcv.pdf';
+'https://raw.githubusercontent.com/rsap4you/cv/master/cv.pdf';
+  // 'https://raw.githubusercontent.com/vsnaichuk/vsnaichuk/master/CV.pdf';
+
+
 
 const Resume = () => {
   const pdfWrapper = useRef(null);
