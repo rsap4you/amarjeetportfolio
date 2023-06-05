@@ -75,7 +75,7 @@ const IntroSection = () => {
           </li>
           <li className={s.socialLink}>
             <a
-              href="https://www.facebook.com/amarjeetkumar"
+              href="https://www.facebook.com/people/Amarjeet-Kumar/100041391041692/?mibextid=ZbWKwL"
               target="_blank"
               rel="noreferrer"
               className={s.socialIcon}
