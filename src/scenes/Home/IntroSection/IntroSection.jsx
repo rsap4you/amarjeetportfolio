@@ -51,7 +51,7 @@ const IntroSection = () => {
         </div>
 
         <Tilt trackOnWindow={true}>
-          <LazyLoadImage alt="avatar" effect="blur" src={avatar} />
+          <LazyLoadImage alt="avatar" effect="" src={avatar} />
         </Tilt>
       </div>
 
@@ -86,7 +86,7 @@ const IntroSection = () => {
           </li>
           <li className={s.socialLink}>
             <a
-              href="https://t.me/snaichuk_v"
+              href="https://t.me/kumar_amarjeet_raj"
               target="_blank"
               rel="noreferrer"
               className={s.socialIcon}
@@ -97,7 +97,7 @@ const IntroSection = () => {
           </li>
           <li className={s.socialLink}>
             <a
-              href="https://www.linkedin.com/in/volodymyr-snaichuk-74a389124/"
+              href="https://www.linkedin.com/in/amarjeet kumar"
               target="_blank"
               rel="noreferrer"
               className={s.socialIcon}

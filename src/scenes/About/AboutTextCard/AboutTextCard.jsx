@@ -19,6 +19,9 @@ const AboutTextCard = () => {
       </p>
 
       <ul>
+      <li className={s.aboutActivity}>
+          <ImPointRight /> Coding
+        </li>
         <li className={s.aboutActivity}>
           <ImPointRight /> Playing Games
         </li>
