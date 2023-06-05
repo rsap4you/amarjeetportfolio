@@ -1,5 +1,5 @@
 import s from './IntroSection.module.scss';
-import avatar from '../../../assets/avatar.svg';
+import avatar from '../../../assets/n3.jpg';
 import { AiFillGithub } from 'react-icons/ai';
 import {
   FaFacebookSquare,
@@ -97,7 +97,7 @@ const IntroSection = () => {
           </li>
           <li className={s.socialLink}>
             <a
-              href="https://www.linkedin.com/in/amarjeet kumar"
+              href="https://www.linkedin.com/in/amarjeet-kumar-28a07b256/"
               target="_blank"
               rel="noreferrer"
               className={s.socialIcon}
